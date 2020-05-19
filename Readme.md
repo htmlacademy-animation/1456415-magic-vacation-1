@@ -1,7 +1,5 @@
 # Личный проект «Таинственный отпуск» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Yuriy  Kalinin](https://up.htmlacademy.ru/animation/1/user/1456415).
-
 ---
 
 **Обратите внимание, что папка с вашими исходными файлами — `source/`.**
